@@ -1,0 +1,23 @@
+body{
+	background: #B0B0B0;
+}
+
+header{
+	border-color: blue;
+	border: solid 3px;
+	color: blue;
+	text-align: center;
+}
+
+h2.blue{
+	color: red;
+	text-align: center;
+}
+
+img{
+	width: 100%;
+}
+
+p{
+	font-size: 22px;
+}
